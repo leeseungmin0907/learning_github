@@ -7,5 +7,6 @@ int main()
 	int b = 200;
 	p = &b;
 	*p = 300;
+	//edited!
 	printf("%d %d", a, b);
 }
