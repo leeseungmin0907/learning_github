@@ -8,5 +8,6 @@ int main()
 	p = &b;
 	*p = 300;
 	//edited!
+	//modified 2017
 	printf("%d %d", a, b);
 }
